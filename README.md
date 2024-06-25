@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on environmental and sustaibability projects. 
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: An Avid Hiker, Cat mom to 4. 
+- ⚡ Fun fact: An Avid Hiker, Cat mom to 4 beautiful cats. 
 
 <!---
 AnuradhaCNC/AnuradhaCNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
