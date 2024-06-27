@@ -2,7 +2,7 @@
 - 👀 I’m interested in Docker, Kubernetes, Git, Scrum.
 - 🌱 I’m currently learning Micro Services.
 - 💞️ I’m looking to collaborate on environmental and sustaibability projects. 
-- 📫 How to reach me ...
+- 📫 How to reach me anuradha.golasangi@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: An Avid Hiker, Cat mom to 4 beautiful cats. 
 
