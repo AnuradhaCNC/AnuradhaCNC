@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on environmental and sustaibability projects. 
 - 📫 How to reach me anuradha.golasangi@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: An Avid Hiker, Cat mom to 4 beautiful cats..
+- ⚡ Fun fact: An Avid Hiker, Cat mom to 4 beautiful cats!
 
 <!---
 AnuradhaCNC/AnuradhaCNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
