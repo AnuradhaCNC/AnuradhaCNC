@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">crafting digital worlds with every keystroke</h3>
 
 <img alt="coding" width="600" src="programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg" />
-
-- 👀 I’m interested in Docker, Kubernetes, Git, Scrum.
+- 👨‍🎓 Certified Scrum Master 
+- 👀 I’m interested in ETL,Docker, Kubernetes, Git, Scrum.
 - 🌱 I’m currently learning Micro Services.
 - 💞️ I’m looking to collaborate on environmental and sustaibability projects. 
 - 📫 How to reach me anuradhagolasangi@gmail.com
