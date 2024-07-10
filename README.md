@@ -12,19 +12,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anuradha</h1>
 <h3 align="center">crafting digital worlds with every keystroke</h3>
 
-<img alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img alt="coding" width="600" src="programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman83770" alt="aman83770" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnuradhaCNC" alt="AnuradhaCNC" /></a> </p>
 
-- 📝 I regularly write articles on [https://dev.to/aman83770](https://dev.to/aman83770)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aman83770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aman83770" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amankumar83770/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amankumar83770/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuradhagb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amankumar83770/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
