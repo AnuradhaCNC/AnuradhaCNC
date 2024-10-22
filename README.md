@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes!
 --->
 [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 <h1 align="center">Hi 👋, I'm Anuradha</h1>
 <h3 align="center">crafting digital worlds with every keystroke</h3>
