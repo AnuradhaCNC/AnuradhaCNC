@@ -5,7 +5,7 @@
 AnuradhaCNC/AnuradhaCNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 You can click the Preview link to take a look at your changes!
 --->
-
+[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
 
 <h1 align="center">Hi 👋, I'm Anuradha</h1>
 <h3 align="center">crafting digital worlds with every keystroke</h3>
