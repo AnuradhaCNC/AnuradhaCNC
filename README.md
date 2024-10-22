@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes!
 
 <img alt="coding" width="600" src="programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg" />
 
-- 👨‍🎓 Certified Scrum Master 
+- 👨‍🎓 Certified Scrum Master , currently working on AWS Cloud Practitioner certification.
 - 👀 I’m interested in Data engineering, ETL, AWS, Docker, Kubernetes, Git, Scrum.
 - 🌱 I’m currently learning Micro Services.
 - 💞️ I’m looking to collaborate on environmental and sustaibability projects. 
